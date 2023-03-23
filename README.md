@@ -1,0 +1,10 @@
+# Ciao a tutti!
+## Sono Maya Bono
+
+Sto imparando ad utilizzare il **Markdown**
+
+Questo è il ***logo*** del mio sito:
+
+![Lotus, my logo](/assets/images/lotus_violet.png)
+
+Il simbolo del loto mi ispira in tutti gli aspetti della vita perchè rappresenta la capacità di rinnovarsi e risollevarsi da qualsiasi lago fangoso da cui nasciamo.
